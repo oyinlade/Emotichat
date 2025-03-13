@@ -2,14 +2,10 @@
 
 ## EmotiChat: Chat with Your Feelings
 
-Hey there! Welcome to **EmotiChat** – a project I built to create a chat experience that truly understands your mood. EmotiChat listens to your words and replies in a way that feels like talking with a friend.
+**EmotiChat** – a chat experience that truly understands your mood. It listens to your words and replies in a way that feels like talking with a friend.
 
 
-## What’s EmotiChat All About?
 
-EmotiChat uses sentiment analysis to pick up on the emotions in your text and then responds to match your mood. I’ve built my own custom model for this, but I’ve also included like BERT and RoBERTa.
-
----
 
 ## Key Features
 
